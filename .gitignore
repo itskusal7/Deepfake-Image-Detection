@@ -1,0 +1,9 @@
+/automate_diary/
+/deepfake_image_detection/dataset/
+/deepfake_image_detection/test_images/
+/deepfake_image_detection/model1/diffusion_detector_dataset_A.zip
+/deepfake_image_detection/merge_datasets.py
+
+/deepfake_image_detection/model1/final_dataset_A
+/deepfake_image_detection/backend/test_images
+/deepfake_image_detection/backend/more_data.zip
